@@ -1,6 +1,3 @@
-Sure, here's a concise description for your Luxury Real Estate Website project:
-
----
 
 # Luxury Real Estate Website
 
